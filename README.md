@@ -119,3 +119,6 @@ To modify the chatbot behavior:
 2. **LLM Configuration**: Modify the LLM settings in `tools/llm.py`
 3. **Conversation Flow**: Adjust the state graph logic in `tools/state_management.py`
 4. **API Endpoints**: Add new routes in `routers/router.py`
+
+
+// project end
